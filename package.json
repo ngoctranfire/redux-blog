@@ -1,0 +1,29 @@
+{
+  "name": "redux-blog",
+  "version": "1.0.0",
+  "description": "Redux Blog Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redux",
+    "blog",
+    "react",
+    "isomorphic",
+    "router"
+  ],
+  "author": "Ngoc Buu Tran",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^1.12.9",
+    "webpack-dev-server": "^1.14.0"
+  },
+  "dependencies": {
+    "history": "^1.16.0",
+    "react": "^0.14.3",
+    "react-router": "^1.0.2",
+    "redux": "^3.0.5",
+    "redux-simple-router": "^1.0.0"
+  }
+}
